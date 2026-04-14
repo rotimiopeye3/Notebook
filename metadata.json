@@ -1,0 +1,6 @@
+{
+  "name": "Smart Code Notebook",
+  "description": "A notebook that automatically distinguishes between text and code, identifying programming languages in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
